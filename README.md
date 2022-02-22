@@ -10,6 +10,7 @@ Input:
   - In case of image, navigate your `~` and select one or more images. Images should be copied to a pre-configured directory and downsized to a pre-configured width. Markdown text for images should be pre-included in the body of the generated file.
 - Date (pick from now or custom input written in plain language: `22 Feb 2022`)
 - Tags
+  - Pre-configure the utility and point it to a JSON file where tags are. Then be able to select one or more using your space bar key.
 
 Output:
 
