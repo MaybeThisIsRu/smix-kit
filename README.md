@@ -1,5 +1,5 @@
 # smix-post-creator
-A Python CLI utility to create ready-to-edit Markdown files for your Smix Eleventy blog.
+A Python CLI utility to create ready-to-edit Markdown files for your [Smix Eleventy blog](https://github.com/hirusi/smix-eleventy-starter).
 
 Input:
 
