@@ -18,3 +18,18 @@ Output:
 
 - A new Markdown file.
 - Code editor opened to continue editing it.
+
+## Dependencies
+
+### Packages
+
+- A file browser.
+- A wrapper for interacting with files.
+- An image manipulation tool.
+- A helper for building the CLI.
+  - Step-based prompts.
+  - Selection via space bar.
+
+### Misc
+
+- Template files
