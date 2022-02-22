@@ -3,7 +3,7 @@ A Python CLI utility to create ready-to-edit Markdown files for your [Smix Eleve
 
 Input:
 
-- Select post type (article, note, image, reply)
+- Select post type using your space bar key (article, note, image, reply)
   - In case of reply, paste reply context ready to go.
   - In case of note, skip title input and generate a random short string.
   - In case of article, ask for a post title.
