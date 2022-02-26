@@ -1,6 +1,10 @@
 # smix-post-creator
 A Python CLI utility to create ready-to-edit Markdown files for your [Smix Eleventy blog](https://github.com/hirusi/smix-eleventy-starter).
 
+## Commands
+
+### `smix-kit new`
+
 Input:
 
 - Select post type using your space bar key (article, note, image, reply)
@@ -19,16 +23,20 @@ Output:
 - A new Markdown file.
 - Code editor opened to continue editing it.
 
+### `smix-key image`
+
+Select images to copy to a directory, compressed in size and shrunk in dimensions. Focus on writing your article, notes, and more.
+
 ## Dependencies
 
 ### Packages
 
-- A file browser.
 - A wrapper for interacting with files.
 - An image manipulation tool.
 - A helper for building the CLI.
   - Step-based prompts.
   - Selection via space bar.
+  - A file browser.
 
 ### Misc
 
